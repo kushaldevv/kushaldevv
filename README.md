@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **NFL match predictior & Gainz Gym Application**
 
-- 🌱 I’m currently learning **Spring, Machine learning**
+- 🌱 I’m currently learning **Selenium, Spring, Machine learning**
 
 - 👨‍💻 My portfolio page [https://kdev.app](https://kdev.app)
 
