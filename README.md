@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kushal</h1>
 <h3 align="center">A passionate software engineer from Maryland</h3>
 
-- 🔭 I’m currently working on **NFL match predictior & Gainz Gym Application**
-
-- 🌱 I’m currently learning **Selenium, Spring, Machine learning**
+- 🔭 I’m currently working on **AI Agents**
 
 - 👨‍💻 My portfolio page [https://kdev.app](https://kdev.app)
 
