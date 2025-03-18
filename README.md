@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kushal</h1>
-<h3 align="center">A passionate software engineer from Maryland</h3>
+<h3 align="center">Software engineer</h3>
 
 - 🔭 I’m currently working on **AI Agents**
 
